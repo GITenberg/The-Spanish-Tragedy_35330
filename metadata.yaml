@@ -1,0 +1,29 @@
+_repo: The-Spanish-Tragedy_35330
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kyd, Thomas
+    alias: Kid, Thomas
+    birthdate: 1558
+    deathdate: 1594
+    gutenberg_agent_id: '1919'
+    url: http://www.gutenberg.org/2009/agents/1919
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Kyd
+description: ''
+gutenberg_issued: '2011-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35330'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English drama'
+- !lcc 'PR'
+- !lcsh 'Tragedies'
+title: The Spanish Tragedy
+url: http://www.gutenberg.org/ebooks/35330
