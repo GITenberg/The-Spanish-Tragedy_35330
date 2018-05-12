@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1919
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Kyd
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35330#The-Spanish-Tragedy
 gutenberg_issued: '2011-02-19'
 gutenberg_type: Text
 identifiers:
